@@ -19,11 +19,11 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-- 🔭 I’m currently working on Web-Apps, Android and bug-hunting
+- 🔭 I’m currently working on Web-Apps, Android and bug-hunts
 - 🌱 I’m currently learning to work and lead teams, laravel and mysql, blockchain technilogies and web3
 - 👯 I’m looking to collaborate on more open source projects
 - 💬 Ask me about Software Development
-- 🥅 2022 Goals: Grow My Network, work on bug bounty programs & put more useful software out there.
+- 🥅 2022 Goals: Grow My Network & putting more useful software out there.
 - ⚡ Fun fact: I'm a cycler
 
 </br>
