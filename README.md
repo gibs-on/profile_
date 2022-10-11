@@ -78,5 +78,5 @@ You can click the Preview link to take a look at your changes.
 ### ⚡ GitHub Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibs-on)](https://github.com/gibs-on/github-readme-stats)
-![Gibson Chesire github stats](https://github-readme-stats.vercel.app/api?username=gibs-on&show_icons=true&theme=onedark)
+![Gibson Chesire github stats](https://github-readme-stats.vercel.app/api?username=gibs-on&show_icons=true&theme=onelight)
 
